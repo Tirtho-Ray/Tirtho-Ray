@@ -6,13 +6,6 @@
 </div>
 
 
-## 🎯 Current Focus
-
-## 🔭 Current Project
-🚀 **[Follow Me](https://github.com/Tirtho-Ray/follow-me)** — A platform that connects influencers and followers.  
-💰 Influencers can buy real followers, likes, and comments.  
-👥 user can earn by following or engaging with influencers
-
 ## 🎯 Current Focus  
 
 - 🔭 Working on: **[Follow Me](https://github.com/Tirtho-Ray/follow-me)** — A next-gen influencer platform where users can buy and sell real followers, likes, and comments.  
