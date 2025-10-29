@@ -69,9 +69,8 @@
 </div>
 
 
-## ☕ Support My Work
 
-If you found my projects helpful or learned something from my code, consider supporting my work:
+If you found my projects helpful or learned something from my code, consider supporting my work give me a star:
 
 
 <div align="center">
