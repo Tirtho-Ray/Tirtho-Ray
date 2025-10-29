@@ -78,24 +78,12 @@ Currently, I’m enhancing my DevOps skills and exploring system design for larg
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirtho-Ray&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
 
-### 📱 Social Presence
-
-[![GitHub followers](https://img.shields.io/github/followers/Tirtho-Ray?style=social)](https://github.com/Tirtho-Ray)
-
-</div>
-
-If you found my projects helpful or learned something from my code, consider supporting my work give me a star:
 
 
 <div align="center">
-  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
+  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects! If you found my projects helpful or learned something from my code, consider supporting my work give me a star:
+</i></sub>
 </div>
-
-
-
-
-
-
 
 
 <div align="center">
