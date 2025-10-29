@@ -61,77 +61,6 @@
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirtho-Ray&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
-## Acknowledgments
-
-### Special Thanks
-
-- **[Library Name](https://github.com/author/library)** - For providing the core functionality
-- **[Tool Name](https://tool-website.com)** - For development tools and utilities
-- **[Community Name](https://community-website.com)** - For ongoing support and feedback
-
-### Inspiration
-
-This project was inspired by:
-- [Project 1](https://github.com/author/project1)
-- [Project 2](https://github.com/author/project2)
-- [Article Title](https://medium.com/article-link)
-
-### Resources
-
-- [Documentation](https://docs.example.com)
-- [Tutorial Series](https://tutorials.example.com)
-- [Community Forum](https://forum.example.com)
-
-## Acknowledgments
-
-### Special Thanks
-
-- **[Library Name](https://github.com/author/library)** - For providing the core functionality
-- **[Tool Name](https://tool-website.com)** - For development tools and utilities
-- **[Community Name](https://community-website.com)** - For ongoing support and feedback
-
-### Inspiration
-
-This project was inspired by:
-- [Project 1](https://github.com/author/project1)
-- [Project 2](https://github.com/author/project2)
-- [Article Title](https://medium.com/article-link)
-
-### Resources
-
-- [Documentation](https://docs.example.com)
-- [Tutorial Series](https://tutorials.example.com)
-- [Community Forum](https://forum.example.com)
-
-
-
-
-
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section -->
-<!--END_SECTION:activity-->
-
-
-## 🏗️ Featured Projects
-
-<div align="center">
-
-<!-- TODO: Replace with actual project -->
-<!-- TODO: Replace with actual project -->
-<!-- TODO: Replace with actual project -->
-
-</div>
-
-
-## 🌐 Let's Connect & Collaborate
-
-<div align="center">
-<!-- TODO: Add your LinkedIn -->
-<!-- TODO: Add your Twitter -->
-<!-- TODO: Add your portfolio -->
-<!-- TODO: Add your email -->
-<!-- TODO: Add your blog -->
 
 ### 📱 Social Presence
 
@@ -144,12 +73,6 @@ This project was inspired by:
 
 If you found my projects helpful or learned something from my code, consider supporting my work:
 
-<div align="center">
-<!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
-<!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
-<!-- TODO: Replace YOUR_USERNAME with your GitHub username -->
-
-</div>
 
 <div align="center">
   <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
