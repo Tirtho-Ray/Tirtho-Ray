@@ -1,22 +1,67 @@
-# 👨‍💻 Tirtho Ray | Full Stack Engineer
-### 🚀 Engineering Scalable Solutions & Modern Digital Products
+# 👨‍💻 Tirtho Ray | Full Stack Developer
+### 🚀 Building scalable systems and real-world products
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;MERN+%2B+PERN+Specialist;Open+Source+Contributor;DevOps+Enthusiast&font=Fira+Code&center=true&width=500&height=50" alt="Typing SVG" />
+  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
 
 ---
 
-### 👋 About Me
-I am a **Full Stack Developer** dedicated to building clean, scalable, and high-performance applications. My expertise lies in architecting robust backend systems and crafting seamless user experiences.
+# 👋 Hello, I'm Tirtho
 
-* 🔭 **Currently Building:** [Bangladesh Education Result Platform](https://github.com/Tirtho-Ray) - A digital management system for academic excellence.
-* ⚡ **Next-Gen Project:** [Follow Me](https://github.com/Tirtho-Ray) - High-performance engagement & analytics platform.
-* 🌱 **Scaling Up:** Deep diving into **Kubernetes**, **CI/CD Pipelines**, and **Microservices Architecture**.
-* 🎯 **Goal:** Architecting systems that serve millions while mentoring the next generation of engineers.
+Hi 👋 I'm **Tirtho Ray**, a passionate **Full Stack Developer** who loves building clean, scalable, and efficient web applications.
+
+I focus on **modern architecture, performance, and scalable backend systems**.
+
+🎯 My goal is simple:
+
+> Become a **Top 1% Software Engineer** by continuously learning, building, and sharing knowledge.
 
 ---
 
+# 🎯 Current Focus
+
+🔭 Working on:  
+**Follow Me**  
+A next-generation influencer platform where users can buy and sell followers, likes, and engagement.
+
+🌍 Building:  
+**Bangladesh Education Result Platform**
+
+Features:
+
+- Schools can publish results anytime
+- Students can check results using **School + Roll Number**
+- Digital result management system for schools
+- Fast and scalable result search
+
+🌱 Currently learning:
+
+- Docker
+- CI/CD pipelines
+- Kubernetes
+- Cloud deployment
+- Scalable backend architecture
+
+---
+
+# 💡 About Me
+
+I specialize in **Full Stack Development** using modern technologies.
+
+My focus areas:
+
+- **MERN Stack**
+- **PERN Stack**
+- **Backend API Architecture**
+- **DevOps & Cloud Systems**
+
+I enjoy solving real-world engineering problems and building applications that scale.
+
+---
+
+# 🛠 Technology Arsenal
+---
 ### 🛠 Tech Stack
 
 | Category | Tools & Technologies |
@@ -29,41 +74,49 @@ I am a **Full Stack Developer** dedicated to building clean, scalable, and high-
 
 ---
 
-### 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=7&no-frame=true" />
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tirtho-Ray&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tirtho-Ray&layout=compact&langs_count=8&theme=tokyonight"/>
 
-### 📈 Contribution Activity
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&area=true&hide_border=true" />
-
----
-
-### 🤝 Connect With Me
-<div align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </div>
 
 ---
 
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Tirtho-Ray&theme=tokyonight&row=2&column=3"/>
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tirtho-Ray&theme=tokyo-night&area=true&hide_border=true"/>
+
+---
+
+# 🚀 Developer Philosophy
+
+> **Code is poetry, and architecture is the story behind it.**
+
+I believe great software comes from:
+
+- Continuous learning
+- Clean architecture
+- Solving real problems
+- Building scalable systems
+
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue" alt="Profile Views" />
-  <br />
-  <sub>“Code is poetry, and architecture is the story behind it.”</sub>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Tirtho-Ray&style=for-the-badge)
+
+⭐ If you like my projects, consider giving them a **star**
+
 </div>
