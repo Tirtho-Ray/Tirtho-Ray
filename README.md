@@ -56,7 +56,7 @@ My focus areas:
 - **Backend API Architecture**
 - **DevOps & Cloud Systems**
 
-I enjoy solving real-world engineering problems and building applications that scale.
+I enjoy solving real-world engineering problems and building applications that scale real product .
 
 ---
 
