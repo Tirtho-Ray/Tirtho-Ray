@@ -110,6 +110,7 @@ I believe great software comes from:
 - Clean architecture
 - Solving real problems
 - Building scalable systems
+- modern ariticture
 
 ---
 
